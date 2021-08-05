@@ -1,0 +1,23 @@
+@tailwind utilities;
+@tailwind components;
+
+@layer components {
+.timeline-container{
+  @apply
+  w-full
+  h-28
+  flex
+  justify-between
+  items-center
+}
+
+.timestamps{
+  @apply
+  w-auto
+  h-full
+  flex
+  flex-col
+  justify-around
+  items-center
+}
+}
