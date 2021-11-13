@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/task-scheduler-mobile-ui-theme/static/css/main.ebe70a42.chunk.css",
+    "main.css": "/task-scheduler-mobile-ui-theme/static/css/main.fce19f4d.chunk.css",
     "main.js": "/task-scheduler-mobile-ui-theme/static/js/main.299765a8.chunk.js",
     "main.js.map": "/task-scheduler-mobile-ui-theme/static/js/main.299765a8.chunk.js.map",
     "runtime-main.js": "/task-scheduler-mobile-ui-theme/static/js/runtime-main.e920ccbf.js",
@@ -10,7 +10,7 @@
     "static/js/3.e8af560b.chunk.js": "/task-scheduler-mobile-ui-theme/static/js/3.e8af560b.chunk.js",
     "static/js/3.e8af560b.chunk.js.map": "/task-scheduler-mobile-ui-theme/static/js/3.e8af560b.chunk.js.map",
     "index.html": "/task-scheduler-mobile-ui-theme/index.html",
-    "static/css/main.ebe70a42.chunk.css.map": "/task-scheduler-mobile-ui-theme/static/css/main.ebe70a42.chunk.css.map",
+    "static/css/main.fce19f4d.chunk.css.map": "/task-scheduler-mobile-ui-theme/static/css/main.fce19f4d.chunk.css.map",
     "static/js/2.60b083ed.chunk.js.LICENSE.txt": "/task-scheduler-mobile-ui-theme/static/js/2.60b083ed.chunk.js.LICENSE.txt",
     "static/media/alt-menu.1576bd87.svg": "/task-scheduler-mobile-ui-theme/static/media/alt-menu.1576bd87.svg",
     "static/media/me.7dd2b184.jpg": "/task-scheduler-mobile-ui-theme/static/media/me.7dd2b184.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.e920ccbf.js",
     "static/js/2.60b083ed.chunk.js",
-    "static/css/main.ebe70a42.chunk.css",
+    "static/css/main.fce19f4d.chunk.css",
     "static/js/main.299765a8.chunk.js"
   ]
 }
