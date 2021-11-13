@@ -2,7 +2,7 @@
   "name": "task-scheduler-mobile-ui-theme",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ertush.github.io/task-scheduler-mobile-ui-theme",
+  "homepage": "https://ertush.github.io/task-scheduler-mobile-ui-theme",
   "dependencies": {
     "@craco/craco": "^6.2.0",
     "@testing-library/jest-dom": "^5.11.4",
