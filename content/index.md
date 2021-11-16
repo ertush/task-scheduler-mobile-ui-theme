@@ -113,7 +113,7 @@ sections:
 
       **Task Scheduler Mobile UI**
 
-      Get the source code from ![github](https://github.com)
+      Get the source code from <a href="https://github.com/ertush/task-scheduler-mobile-ui-theme">github</a>
 
       <table>
         <tr width="100%" style="display:flex; flex-direction:'row';">
