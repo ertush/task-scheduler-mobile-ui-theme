@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.fce19f4d.chunk.css",
-    "main.js": "/static/js/main.d2f1becb.chunk.js",
-    "main.js.map": "/static/js/main.d2f1becb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8da4bf2f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8da4bf2f.js.map",
-    "static/js/2.6d19e90a.chunk.js": "/static/js/2.6d19e90a.chunk.js",
-    "static/js/2.6d19e90a.chunk.js.map": "/static/js/2.6d19e90a.chunk.js.map",
-    "static/js/3.d6b67d94.chunk.js": "/static/js/3.d6b67d94.chunk.js",
-    "static/js/3.d6b67d94.chunk.js.map": "/static/js/3.d6b67d94.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.fce19f4d.chunk.css.map": "/static/css/main.fce19f4d.chunk.css.map",
-    "static/js/2.6d19e90a.chunk.js.LICENSE.txt": "/static/js/2.6d19e90a.chunk.js.LICENSE.txt",
-    "static/media/alt-menu.1576bd87.svg": "/static/media/alt-menu.1576bd87.svg",
-    "static/media/me.7dd2b184.jpg": "/static/media/me.7dd2b184.jpg",
-    "static/media/welcome-image.2d061aa6.svg": "/static/media/welcome-image.2d061aa6.svg"
+    "main.css": "/task-scheduler-mobile-ui-theme/static/css/main.fce19f4d.chunk.css",
+    "main.js": "/task-scheduler-mobile-ui-theme/static/js/main.391edca2.chunk.js",
+    "main.js.map": "/task-scheduler-mobile-ui-theme/static/js/main.391edca2.chunk.js.map",
+    "runtime-main.js": "/task-scheduler-mobile-ui-theme/static/js/runtime-main.e920ccbf.js",
+    "runtime-main.js.map": "/task-scheduler-mobile-ui-theme/static/js/runtime-main.e920ccbf.js.map",
+    "static/js/2.440df86c.chunk.js": "/task-scheduler-mobile-ui-theme/static/js/2.440df86c.chunk.js",
+    "static/js/2.440df86c.chunk.js.map": "/task-scheduler-mobile-ui-theme/static/js/2.440df86c.chunk.js.map",
+    "static/js/3.e8af560b.chunk.js": "/task-scheduler-mobile-ui-theme/static/js/3.e8af560b.chunk.js",
+    "static/js/3.e8af560b.chunk.js.map": "/task-scheduler-mobile-ui-theme/static/js/3.e8af560b.chunk.js.map",
+    "index.html": "/task-scheduler-mobile-ui-theme/index.html",
+    "static/css/main.fce19f4d.chunk.css.map": "/task-scheduler-mobile-ui-theme/static/css/main.fce19f4d.chunk.css.map",
+    "static/js/2.440df86c.chunk.js.LICENSE.txt": "/task-scheduler-mobile-ui-theme/static/js/2.440df86c.chunk.js.LICENSE.txt",
+    "static/media/alt-menu.1576bd87.svg": "/task-scheduler-mobile-ui-theme/static/media/alt-menu.1576bd87.svg",
+    "static/media/me.7dd2b184.jpg": "/task-scheduler-mobile-ui-theme/static/media/me.7dd2b184.jpg",
+    "static/media/welcome-image.2d061aa6.svg": "/task-scheduler-mobile-ui-theme/static/media/welcome-image.2d061aa6.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8da4bf2f.js",
-    "static/js/2.6d19e90a.chunk.js",
+    "static/js/runtime-main.e920ccbf.js",
+    "static/js/2.440df86c.chunk.js",
     "static/css/main.fce19f4d.chunk.css",
-    "static/js/main.d2f1becb.chunk.js"
+    "static/js/main.391edca2.chunk.js"
   ]
 }
