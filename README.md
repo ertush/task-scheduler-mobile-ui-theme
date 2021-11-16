@@ -1,8 +1,4 @@
-<<<<<<< HEAD
- ## My Web Site
 
-![](https://github.com/ertush/eric-dev-me/blob/master/static/images/favicon.svg)
-=======
 Simple mobile UI theme for task Scheduling application done using react and tailwind css. Inspired by dribble design themes
 
 
@@ -26,4 +22,4 @@ Simple mobile UI theme for task Scheduling application done using react and tail
 </tr>
 
 </table>
->>>>>>> refs/remotes/origin/master
+
