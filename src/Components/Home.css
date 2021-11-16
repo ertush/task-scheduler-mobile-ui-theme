@@ -1,0 +1,170 @@
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+ .header-menu{
+ 	@apply
+ 	flex
+ 	justify-between
+ }
+
+ .alt-menu{
+ 	@apply
+ 	w-8
+ 	h-8
+ }
+
+ .user-image{
+ 	@apply
+ 	w-8
+ 	h-8
+ 	rounded-full
+ 	border-2
+ 	border-secondary-grad-light
+ }
+
+.main-heading{
+	@apply
+	flex
+	flex-col
+	justify-evenly
+	items-start
+
+}
+
+.user-name{
+	@apply
+	text-2xl
+	font-semibold
+	text-secondary-grad-light
+	capitalize
+}
+
+.task-status{
+	@apply
+	text-sm
+	font-normal
+	text-gray-300
+}
+
+.task-card{
+	@apply
+		flex
+		flex-col
+		justify-evenly
+		items-start
+		p-3
+	}
+
+.task-card-heading {
+	@apply
+	text-lg
+	font-semibold
+	text-secondary-grad-light
+	capitalize
+}
+
+
+.task-handlers {
+	@apply
+	text-xs
+	text-gray-300
+	font-normal
+	mb-3
+}
+
+.handler-images-container {
+	@apply
+	w-full
+	flex
+	justify-between
+	items-center
+	}
+
+.monthly-review-container{
+	@apply
+	flex
+	justify-between
+	items-center
+	w-full
+	h-auto
+}
+
+.monthly-review-button{
+	@apply
+	cursor-pointer
+	bg-primary-accent
+	shadow-4xl
+	rounded-full
+  text-secondary-grad-light
+  flex
+  justify-center
+  items-center
+	w-8
+	h-8
+	p-2
+}
+
+.card-dashboard{
+	@apply
+	w-full
+	h-auto
+	grid
+	grid-cols-2
+	grid-flow-row
+	gap-3
+	place-content-center
+
+}
+
+.bottom-menu{
+	@apply
+	flex
+	justify-evenly
+	items-center
+	w-full
+	h-auto
+}
+
+.card{
+	@apply
+	shadow-2xl
+	flex
+	p-3
+	flex-col
+	justify-center
+	items-center
+	gap-y-1
+	w-full
+}
+
+.card-heading{
+	@apply
+	text-xl
+	font-semibold
+	text-secondary-grad-light
+}
+
+.status-text{
+	@apply
+	text-xs
+	font-thin
+	capitalize
+	text-gray-300
+}
+
+.bottom-menu{
+  @apply
+  flex
+  w-full
+  h-9
+  justify-between
+  items-center
+}
+
+.icon-button{
+  @apply
+  text-secondary-grad-light
+}
+
+}

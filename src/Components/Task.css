@@ -1,0 +1,83 @@
+@tailwind utilities;
+@tailwind components;
+
+@layer components {
+
+  .hide-scroll-bar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.hide-scroll-bar::-webkit-scrollbar {
+  display: none;
+}
+
+  .back-btn{
+    @apply
+    w-8
+    h-8
+    p-1
+    rounded-lg
+    border-2
+    border-gray-300
+    flex
+    justify-center
+    items-center
+    shadow-md
+    hover:shadow-xl
+    transition-shadow
+    duration-300
+  }
+
+  .scroll-view-header{
+    @apply
+    flex
+    justify-between
+    items-center
+    w-full
+    h-auto
+  }
+
+  .h-scroll-view {
+    @apply
+    w-full
+    h-64
+    flex
+    gap-x-5
+    items-center
+    overflow-x-scroll
+    hide-scroll-bar
+    rounded-2xl
+  }
+
+  .timeline-heading{
+    @apply
+    text-xl
+    font-semibold
+    text-secondary-accent
+    capitalize
+  }
+
+  .timeline-scroll-view{
+    @apply
+    w-full
+    h-auto
+    flex
+    flex-col
+    gap-y-4
+    items-center
+    overflow-y-scroll
+    hide-scroll-bar
+  }
+
+  .timeline-pointer{
+    @apply
+    w-full
+    h-auto
+    flex
+    justify-center
+    items-center
+  }
+
+
+  }

@@ -1,0 +1,56 @@
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+	.welcome-image{
+    @apply
+    rounded-b-full
+  }
+
+  .heading-wrapper{
+    @apply
+    flex
+    flex-col
+    justify-around
+    items-start
+    space-y-8
+    w-full
+    h-auto
+  }
+
+  .heading{
+    @apply
+    text-3xl
+    font-semibold
+    text-secondary-accent
+  }
+
+  .heading-detail{
+    @apply
+    text-sm
+    font-normal
+    text-secondary-accent
+  }
+
+  .getting-started-btn{
+    @apply
+    w-10
+    h-10
+    rounded-full
+    bg-secondary-grad-light
+    shadow-3xl
+    relative
+  }
+
+  .start-btn{
+    @apply
+    text-sm
+    font-semibold
+    text-secondary-accent
+    capitalize
+    w-40
+    absolute
+    inset-y-0
+    -left-7
+  }
+}

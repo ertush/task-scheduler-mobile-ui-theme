@@ -1,0 +1,22 @@
+@tailwind base;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap'); 
+
+@layer base {
+  :root{
+    font-family: 'Poppins';
+    @apply 
+    w-full
+    h-full
+    box-border
+    bg-secondary-dark
+    flex
+    place-content-center
+    space-y-7
+  }
+}
+
+
+
+
+
+
